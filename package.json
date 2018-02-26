@@ -1,0 +1,18 @@
+{
+  "name": "webpack-4-quickstart",
+  "version": "1.0.0",
+  "description": "valentinog.com webpack 4 tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "WSE",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.9"
+  }
+}
